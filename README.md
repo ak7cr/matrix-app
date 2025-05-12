@@ -4,5 +4,5 @@ This is a simple matrix app made with React
 ```bash
 npm install
 npm run dev
-'''
+```
 Made with ❤️ by Anshuman
